@@ -1,0 +1,4 @@
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\Framework.Idade.Mj\Framework.Idade.Mj\bin\Release\Framework.Idade.Mj.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\Framework.Idade.Mj\Framework.Idade.Mj\bin\Release\Framework.Idade.Mj.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\Framework.Idade.Mj\Framework.Idade.Mj\obj\Release\Framework.Idade.Mj.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\Framework.Idade.Mj\Framework.Idade.Mj\obj\Release\Framework.Idade.Mj.pdb
